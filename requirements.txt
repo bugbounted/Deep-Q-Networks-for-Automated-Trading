@@ -1,0 +1,7 @@
+numpy
+pandas
+Keras==2.2.4
+tensorflow==1.15
+sklearn
+h5py
+gym==0.9.4
