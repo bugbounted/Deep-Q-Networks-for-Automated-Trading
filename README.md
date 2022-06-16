@@ -1,7 +1,7 @@
 ## Deep Q Networks - Custom Build
 
-## Cloud instance for train and test
-https://app.community.saturnenterprise.io/dash/o/community/resources?workspaceId=85e477a805ca4390b0cd468cfb700263
+## Dataset
+- The used dataset is a synthetically generated dataset for three different assets. In the following example, the dataset was provided by the University of Bristol for `Mini-project` module. 
 
 
 ## Setting up the environment
