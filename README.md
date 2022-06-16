@@ -1,7 +1,12 @@
 ## Deep Q Networks - Custom Build
 
 ## Dataset
-- The used dataset is a synthetically generated dataset for three different assets. In the following example, the dataset was provided by the University of Bristol for `Mini-project` module. 
+- The used dataset is a synthetically generated dataset for three different assets using the `Alpha Vantage API`, that allows accessing both historic and real time stock data.
+- There is a correlation between all the three generated dataset, this is achieved by tuning several parameters during generation. 
+
+*This dataset is provided for the Data Science Mini-Project model by the University of Bristol in association with HSBC for experimentation purpose only.*
+
+- The induced correlation between the datasets in that the *stock prices tend to rise from Tuesday and fall down by the end of week or Friday.*
 
 
 ## Setting up the environment
