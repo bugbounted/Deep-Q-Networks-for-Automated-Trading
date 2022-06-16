@@ -1,4 +1,4 @@
-## Deep Q Networks - Custom Build
+## Deep Q Networks - Automated Trading on multiple stocks
 
 ## Dataset
 - The used dataset is a synthetically generated dataset for three different assets using the `Alpha Vantage API`, that allows accessing both historic and real time stock data.
@@ -91,7 +91,7 @@ The Train and Test performance of the model are as shown below. The DQN model wa
 
 
 ## References: 
-Machnie learning on Trading
+Machine learning on Trading
 - https://github.com/stefan-jansen/machine-learning-for-trading
 - https://github.com/ShuaiW/teach-machine-to-trade
 - https://github.com/DrAshBooth/BristolStockExchange
