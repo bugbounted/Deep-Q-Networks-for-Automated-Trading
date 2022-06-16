@@ -72,17 +72,17 @@ The model is a feedforward ANN, a multilayer perceptron.
 The DQN model uses Markov Decision Processes (MDPs) to learn from experience.
 
 
-<img src="Images/markov.png" width="700" height="400">
+<img src="images/markov decision process.png" width="700" height="400">
 
 The Q values are estimated using a neural network. And the network is trained using the Bellman equation using iterative steps as shown below.
 
 
-<img src="Images/RL_Flowchart.png" width="500" height="600">
+<img src="images/bellman equation.png" width="500" height="600">
 
 The Train and Test performance of the model are as shown below. The DQN model was able to generate a profit when trained for 2000 episodes.
 
 
-<img src = "Images/Custom_RL performance.png" width="1000" height="300">
+<img src = "images/Custom_RL performance.png" width="1000" height="300">
 
 
 ## References: 
